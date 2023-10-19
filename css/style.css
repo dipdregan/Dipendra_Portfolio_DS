@@ -161,8 +161,8 @@ ul
 .aside .logo a{
     color: var(--text-black-900);
     font-weight: 700;
-    padding: 15px 20px;
-    font-size: 30px;
+    padding: 10px 15px;
+    font-size: 25px;
     letter-spacing: 4px;
     position: relative;
 }
