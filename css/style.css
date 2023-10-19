@@ -184,6 +184,7 @@ ul
     left: 0;
     
 }
+
 .aside .logo a::after
 {
     content: '';
